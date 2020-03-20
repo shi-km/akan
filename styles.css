@@ -1,0 +1,29 @@
+.one {
+    margin-bottom: 5%;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-image: url("https://bit.ly/37AbNMh");
+}
+label{
+    color:cyan;
+
+}
+#year {
+    width: 100%;
+    border-radius: 5px;
+}
+#month{
+    width: 100%;
+    border-radius: 5px;  
+}
+#day{
+    width: 100%;
+    border-radius: 5px;
+}
+#gender {
+    color: cyan;
+
+}
